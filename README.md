@@ -11,6 +11,7 @@ Features:
 4)Evaluation and Comparison: Assessed and compared model performance using metrics such as accuracy, precision, recall, and F1-score to determine the best model.
 
 Project Highlights:
+
 1)Collaborative Effort: Developed in collaboration with [Team Member's Name].
 
 2)Comprehensive Analysis: Included a detailed comparison of CNN, Logistic Regression, and VGG-19 models.
