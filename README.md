@@ -1,6 +1,6 @@
 This project was developed in collaboration with a team member as part of the Data Mining course. The goal was to classify MRI images to detect the presence of brain tumors using various machine learning techniques.
 
-#Features
+Features:
 
 1)Data Preprocessing: Handled MRI image data from Kaggle, including normalization and augmentation, to improve model performance.
 
@@ -10,7 +10,7 @@ This project was developed in collaboration with a team member as part of the Da
 
 4)Evaluation and Comparison: Assessed and compared model performance using metrics such as accuracy, precision, recall, and F1-score to determine the best model.
 
-#Project Highlights
+Project Highlights:
 1)Collaborative Effort: Developed in collaboration with [Team Member's Name].
 
 2)Comprehensive Analysis: Included a detailed comparison of CNN, Logistic Regression, and VGG-19 models.
